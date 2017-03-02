@@ -1,11 +1,4 @@
-/** Medical Diagnostic System for Heart Diseases
-	build 10/10/2002
-	Genre: Expert System for Doctors and Patients
-	language: Java
-	Knowledgebase: Amzi KnowledgeWright
-	Database: Microsoft Access XP
-	L&F: Oyoaha look and feel
-*/
+
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
@@ -25,18 +18,9 @@ import java.io.*;
 import java.util.*;
 import java.awt.PrintJob.*;
 import java.net.*;
-//import com.oyoaha.swing.plaf.oyoaha.*;
-//import amzi.ls.*;
+/*
 
-/**
- -This program has been solely programmed for an AI project and not meant for any business means.
- -If you intend to use the code please do so freely on condition you acknowledge us.
- -Created by Group 13 - CyberVision softwares.
- -Thanx to Oyoaha for providing us such a wonderful look and feel.Please include in the path
-  the path name of the oyaha jar file when compiling.
- -The ODBC datasource name is AI please do not forget to set that before running then program.
- -Please DO NOT DELETE the following files
- 		
+
  		-amzi folder (contains the logic server files amzi.ls)
  		-amzi.dll
  		-amzijni.dll
@@ -52,11 +36,7 @@ import java.net.*;
  		-support.xpl
  
  -These files are needed for the connecivity with the knwoledgebase.
- -Please do not hesitate to submit any bug to us.
- -You can mail us on dh002211@ex.apiit.edu.my
 
- @author Asrar Ahmed Makrani
- @version 1.4.0 build 3
  */
 
 public class main extends JFrame implements TreeSelectionListener, mainInterface
