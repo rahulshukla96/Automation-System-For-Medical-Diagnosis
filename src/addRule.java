@@ -18,17 +18,6 @@ import javax.swing.JToolBar;
 
 import org.w3c.dom.ls.LSException;
 
-/**
- This program has been solely programmed for an AI project and not meant for any business means.
- If you intend to you the code please do so freely on condition you acknowledge us.
- Created by Group 13 - CyberVision softwares.
- The ODBC datasource name is AI please do not forget to set that before running then program.
- Please do not hesitate to submit any bug to us.
- you can mail us on dh002211@ex.apiit.edu.my
-
- @author Asrar Ahmed Makrani
- @version 1.4.0 build 3
- */
 
 public class addRule extends JPanel //implements MouseListener
 {
